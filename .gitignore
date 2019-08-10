@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/demo/v16/Server/sqlite3
+/TextTranslation/bin/Debug/netcoreapp2.2
+/TextTranslation/obj
